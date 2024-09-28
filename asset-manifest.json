@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ws101-magculang-navbar/static/css/main.736a4ca5.css",
+    "main.js": "/ws101-magculang-navbar/static/js/main.77e41f4e.js",
+    "static/media/my-bg-about.jpeg": "/ws101-magculang-navbar/static/media/my-bg-about.212415f9c0c932ef2643.jpeg",
+    "static/media/my-bg.jpeg": "/ws101-magculang-navbar/static/media/my-bg.cccf37f1aa112488633b.jpeg",
+    "index.html": "/ws101-magculang-navbar/index.html",
+    "main.736a4ca5.css.map": "/ws101-magculang-navbar/static/css/main.736a4ca5.css.map",
+    "main.77e41f4e.js.map": "/ws101-magculang-navbar/static/js/main.77e41f4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736a4ca5.css",
+    "static/js/main.77e41f4e.js"
+  ]
+}
